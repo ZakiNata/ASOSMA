@@ -1,4 +1,4 @@
-# React  #
+# React  # ![alt text](React-icon.svg.png)
 
 [React Repo.](https://github.com/facebook/react "React Repo.")
 
