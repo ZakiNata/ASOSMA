@@ -16,3 +16,25 @@ React is a JavaScript library for building user interfaces.
 **Introduction**
 
 React is an open-source Javascript library, firstly develop by Facebook and used by a lot of very big companies (like Airbnb, Reddit,  SalesForce, Twitter, WhatsApp and of course Facebook and Instagram). React processes only user interfaces in applications. This is the View in the MVC (Model-View-Controller) template.
+
+React was created by Jordan Wlake, a software enginner at Facebook. He was influenced by XHP, an HTML component framework for PHP. It was first deployed on Facebook's newsfeed in 2011 and later on Instagram.com in 2012.It was open-sourced at JSConf US in May 2013. 
+
+The React Homepage is hosted by Facebook (https://facebook.github.io/react/) and the repository can be find at :
+https://github.com/facebook/react/
+
++Why it was chosen ?
+
+The is one of the hotest JS library at this moment. Used by a lot a developer (and Ilya using it every day at work).
+The communaty work a lot on the projet :
+[>700 PrS in the last year](https://github.com/facebook/react/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aopen%20is%3Apr%20is%3Aclosed%20%20created%3A2016-06-18..2017-12-12%20)
+[Commits](https://github.com/facebook/react/commits/master)
+[Contributors](https://github.com/facebook/react/graphs/contributors)
+
+
+
+
+
+Start as an internal Facebook projet but now mainteant by a huge communauty.
+
+
+
