@@ -24,8 +24,8 @@ https://github.com/facebook/react/
 
 #Why it was chosen ?#
 
-The is one of the hotest JS library at this moment. Used by a lot a developer (and Ilya using it every day at work).
-The communaty work a lot on the projet :
+The is one of the hotest JS library at this moment. Used by a lot a developers all around the world (and Ilya using it every day at work).
+The community works a lot on the projet :
 
 [>700 Pull requests in the last year](https://github.com/facebook/react/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aopen%20is%3Apr%20is%3Aclosed%20%20created%3A2016-06-18..2017-12-12%20)
 
@@ -37,7 +37,7 @@ The communaty work a lot on the projet :
 
 
 
-Start as an internal Facebook projet but now mainteant by a huge communauty.
+Start as an internal Facebook projet but now mainteant by a huge community.
 
 
 
