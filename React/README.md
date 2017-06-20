@@ -39,7 +39,21 @@ The community works a lot on the projet :
 ![Top 6 contributors](top6contributor.png)
 
 
-Start as an internal Facebook projet but now mainteant by a huge community.
+Start as an internal Facebook projet but now mainteant by a huge community and React is worked on full-time by Facebook's product infrastructure and Instagram's user interface engineering teams. They're often around and available for questions on :
+
+###Stack Overflow
+https://stackoverflow.com/questions/tagged/reactjs
+
+###Discussio forum
+https://discuss.reactjs.org/
+
+###Reactiflux Chat
+https://discordapp.com/invite/0ZcbPKXt5bZjGY5n
+
+###Freenode IRC
+http://irc.lc/freenode/reactjs
+
+There is also help on [Facebook](https://www.facebook.com/react) and [Twitter](https://twitter.com/reactjs)
 
 **React.js Documentation**
 
