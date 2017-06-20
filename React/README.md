@@ -81,6 +81,24 @@ To make easy the issue report there is a formated mail with simple questions :
 
 
 ### Challenges
+There is a Big picture label in the issues that give some directive line to what to develop next :
+
+**Big Picture Label** 
+
+[Support Passive Event Listeners](https://github.com/facebook/react/issues/6436)
+[New Core Algorithm](https://github.com/facebook/react/issues/6170)
+[Play Nicely with The DOM Event System (because it's legacy anyway)](https://github.com/facebook/react/issues/4751)
+[Umbrella: Externalize the State Tree (or alternatives)](https://github.com/facebook/react/issues/4595)
+[Include DevTools as Public API](https://github.com/facebook/react/issues/4593)
+
+
+We consider that important bugs are bugs classified as difficulty: medium (there are not Hard)
+
+**Difficulty: Medium**
+[Run some unit tests on compiled bundles](https://github.com/facebook/react/issues/9955)
+[Add More Cases to Server Rendering Fixture](https://github.com/facebook/react/issues/9866)
+[Implement Setting Unknown Attributes](https://github.com/facebook/react/issues/9477)
+
 
 
 ## Metrics, Variability and Quality Measures
