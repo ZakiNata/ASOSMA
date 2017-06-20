@@ -24,7 +24,7 @@ https://github.com/facebook/react/
 
 ### Why it was chosen ?
 
-The is one of the hotest JS library at this moment. Used by a lot a developers all around the world (and Ilya using it every day at work).
+This is one of the hotest JS library at this moment. Used by a lot a developers all around the world (and Ilya using it every day at work).
 
 
 The community works a lot on the projet :
