@@ -30,6 +30,7 @@ The community works a lot on the projet :
 
 
 [More than 1000 Pull requests in the last year](https://github.com/facebook/react/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aopen%20is%3Apr%20is%3Aclosed%20%20created%3A2016-06-18..2017-12-12%20)
+![Pr](pullrequest.png)
 
 [Commits](https://github.com/facebook/react/commits/master)
 ![Commit Graph](graphcommit.png)
