@@ -91,7 +91,7 @@ The development view comes to  illustrate a system from a programmers perspectiv
 
 #### Design Patterns
 
-####Composition
+#### Composition
 
 The key feature of React is composition of components. Components written by different people should work well together. It is important to us that you can add functionality to a component without causing rippling changes throughout the codebase.
 
