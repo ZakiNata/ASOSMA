@@ -19,10 +19,10 @@ React is an open-source Javascript library, firstly develop by Facebook and used
 
 React was created by Jordan Wlake, a software enginner at Facebook. He was influenced by XHP, an HTML component framework for PHP. It was first deployed on Facebook's newsfeed in 2011 and later on Instagram.com in 2012.It was open-sourced at JSConf US in May 2013. 
 
-The React Homepage is hosted by Facebook (https://facebook.github.io/react/) and the repository can be find at :
+The React Homepage is hosted here (https://facebook.github.io/react/) and the repository can be find at :
 https://github.com/facebook/react/
 
-#Why it was chosen ?#
+**Why it was chosen ?**
 
 The is one of the hotest JS library at this moment. Used by a lot a developers all around the world (and Ilya using it every day at work).
 The community works a lot on the projet :
@@ -37,9 +37,6 @@ The community works a lot on the projet :
 
 [Contributors](https://github.com/facebook/react/graphs/contributors)
 ![Top 6 contributors](top6contributor.png)
-
-
-
 
 
 Start as an internal Facebook projet but now mainteant by a huge community.
