@@ -99,7 +99,12 @@ Directory | Description
 --- | --- 
 docs | React Documentation & Website
 eslint-rules | This is a dummy npm package that allows us to treat it as an eslint-plugin. It's not actually published, nor are the rules here useful for users of react
-
+fixtures | Test fixtures
+flow | declarations
+mock | mock objects
+packages | packages used in react
+scripts | scripts directory
+src | contains the src code of react divided itself into child directories by category and usage
 
 
 
