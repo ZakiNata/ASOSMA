@@ -41,5 +41,9 @@ The community works a lot on the projet :
 
 Start as an internal Facebook projet but now mainteant by a huge community.
 
+**React.js Documentation**
+
+https://facebook.github.io/react/docs/hello-world.html
+
 
 
