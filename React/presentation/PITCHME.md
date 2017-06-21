@@ -1,5 +1,0 @@
-# React presentation
-
----
-
-## Test page

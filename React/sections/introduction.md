@@ -2,7 +2,7 @@
 
 React is an open-source Javascript library, firstly develop by Facebook and used by a lot of very big companies (like Airbnb, Reddit,  SalesForce, Twitter, WhatsApp and of course Facebook and Instagram). React processes only user interfaces in applications. This is the View in the MVC (Model-View-Controller) template.
 
-React was created by Jordan Wlake, a software enginner at Facebook. He was influenced by XHP, an HTML component framework for PHP. It was first deployed on Facebook's newsfeed in 2011 and later on Instagram.com in 2012.It was open-sourced at JSConf US in May 2013. 
+React was created by Jordan Wlake, a software enginner at Facebook. He was influenced by XHP, an HTML component framework for PHP. It was first deployed on Facebook's newsfeed in 2011 and later on Instagram.com in 2012.It was open-sourced at JSConf US in May 2013.
 
 The React Homepage is hosted here (https://facebook.github.io/react/) and the repository can be find at :
 https://github.com/facebook/react/
@@ -15,13 +15,13 @@ This is one of the hotest JS library at this moment. Used by a lot a developers 
 The community works a lot on the projet :
 
 [More than 1000 Pull requests in the last year](https://github.com/facebook/react/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aopen%20is%3Apr%20is%3Aclosed%20%20created%3A2016-06-18..2017-12-12%20)
-![Pr](pullrequest.png)
+![Pr](images/pullrequest.png)
 
 [Commits](https://github.com/facebook/react/commits/master)
-![Commit Graph](graphcommit.png)
+![Commit Graph](images/graphcommit.png)
 
 [Contributors](https://github.com/facebook/react/graphs/contributors)
-![Top 6 contributors](top6contributor.png)
+![Top 6 contributors](images/top6contributor.png)
 
 
 Start as an internal Facebook projet but now mainteant by a huge community and React is worked on full-time by Facebook's product infrastructure and Instagram's user interface engineering teams. They're often around and available for questions on :
