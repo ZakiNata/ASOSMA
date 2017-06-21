@@ -11,12 +11,12 @@ React is a JavaScript library for building user interfaces.
 - [Raphael Genah](https://github.com/leahpar47 "Raphael")
 
 
-## [Introduction](/sections/introduction.md)
+## [Introduction](https://github.com/ZakiNata/ASOSMA/blob/master/React/sections/introduction.md)
 
 
-## [Views and Prespectives](/viewes_and_perspectives.md)
+## [Views and Prespectives](https://github.com/ZakiNata/ASOSMA/blob/master/React/sections/viewes_and_perspectives.md)
 
 
-## [Metrics, Variability and Quality Measures](/metrics_variability_and_quality.md)
+## [Metrics, Variability and Quality Measures](https://github.com/ZakiNata/ASOSMA/blob/master/React/sections/metrics_variability_and_quality.md)
 
 
