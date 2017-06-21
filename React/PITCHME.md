@@ -1,7 +1,8 @@
-# ASOSMA
-## ReactS
+# ASOSMA - PROJECT
+## ReactJS
 
-footnote : "by Zaki Natsheh, Raphael Genah and Ilya Krasnov"
+
+footnote: "by Zaki Natsheh, Raphael Genah and Ilya Krasnov"
 
 
 ---
