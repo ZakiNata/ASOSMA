@@ -2,8 +2,7 @@
 ## ReactJS
 
 
-footnote: "by Zaki Natsheh, Raphael Genah and Ilya Krasnov"
-
+by *[Zaki Natsheh](https://github.com/ZakiNata "Zaki Natsheh")*, *[Raphael Genah](https://github.com/leahpar47 "Raphael")* and *[Ilya Krasnov](https://github.com/ilyakrasnov "Ilya Krasnov")*
 ---
 
 ## Introduction
