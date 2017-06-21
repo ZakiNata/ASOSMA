@@ -10,6 +10,18 @@ Static code analysis can only bring us so far. It only inspects a snapshot of th
 
 ### Hotspots
 
+<img src="images/react-hotspot.png" alt="Hotspots map" width="400">
+
+
+
 ### Temporal Coupling
 
+<img src="images/temporal-coupling.jpg" alt="Temporal Coupling Explanation" width="400">
+
+<img src="images/temporal-coupling.png" alt="Temporal Coupling React" width="800">
+
 ### Knowledge Maps and Organizational Structure
+
+
+<img src="images/owner-high.png" alt="High ownership" width="400">
+<img src="images/owner-low.png" alt="Low ownership" width="400">
