@@ -9,6 +9,8 @@ Following we will explain the approach, define a few of the metrics and apply th
 Static code analysis can only bring us so far. It only inspects a snapshot of the codebase and can surely bring results, showing the interplay of classes, finding [code smells](https://sourcemaking.com/refactoring/smells) or style deviations. The premise of the book is that code and system design changes over time, and by monitoring and analyzing exactly those changes we can discover trends previously not seen using only static analysis techniques.
 
 ### Hotspots
+>If many people change a file often, it hase many reasons to change.. [violating the Single Rresponsibility Principle]
+--Adam Tornhill
 
 <img src="images/react-hotspot.png" alt="Hotspots map" width="400">
 
@@ -21,6 +23,9 @@ Static code analysis can only bring us so far. It only inspects a snapshot of th
 <img src="images/temporal-coupling.png" alt="Temporal Coupling React" width="800">
 
 ### Knowledge Maps and Organizational Structure
+
+>...organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations
+--M. Conway
 
 
 <img src="images/owner-high.png" alt="High ownership" width="400">
