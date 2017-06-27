@@ -28,6 +28,10 @@ src | contains the src code of react divided itself into child directories by ca
 ### Requirements and Features (Stakeholder View)
 
 
+#### Context View 
+
+![](https://github.com/ZakiNata/ASOSMA/blob/master/React/images/REACTJS%20Context%20view.png)
+
 #### Development View
 
 The development view comes to  illustrate a system from a programmers perspective and is concerned with software management. 
