@@ -69,3 +69,22 @@ We consider that important bugs are bugs classified as difficulty: medium (there
 - [Run some unit tests on compiled bundles](https://github.com/facebook/react/issues/9955)
 - [Add More Cases to Server Rendering Fixture](https://github.com/facebook/react/issues/9866)
 - [Implement Setting Unknown Attributes](https://github.com/facebook/react/issues/9477)
+
+
+### React Development Process by the Team Project 
+We found a very interesting discussion about React Development Process.
+You can see the full discussion just here (https://discuss.reactjs.org/t/react-development-process/2135). 
+
+Students from "" ask the React.js Team about Development Process :
+
+
+"We mainly seek validation of our ideas and our interpretation of what's been going on in the development process. After careful analysis of the way the project is organised, GitHub statistics, issues and milestones list, and project wiki, we concluded that there isn't really a single, well-defined process behind the development of the React library, although it seemed clear to us, from the way development seems to focus on the evolution and improvement of the project, that several ideas were borrowed from a number of Agile methodologies.
+
+Do you agree with this view? We look forward to feedback from the React community."
+
+And this is the React.js Team answer !!
+
+
+<img src="images/developmentprocess.png" alt="React.js Team" width="600">
+
+
