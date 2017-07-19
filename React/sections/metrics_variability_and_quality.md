@@ -52,7 +52,16 @@ The following analysis provides more insights into React's coupling. A look on *
 
 ### Complexity
 
-<img src="images/complexity-trend.png" alt="Temporal Coupling React" width="800">
+There exist (complex) metrics like [Cyclomatic Code Complexity](http://www.linuxjournal.com/article/8035) which can help us reason about complexity of a given code base, by building out a graph of the code base and the method calls, counting edges, etc. Adam Tornhill though takes another approach, relying totally on the visual structure of the code. In her [talk](https://youtu.be/8bZh5LMaSmE?t=299) at the RailsConf 2014 Sandi Metz introduced the socalled "Squint Test". Opening up the IDE, squinting one's eyes and looking on the code, we want to look out for:
+
+* Changes in shape
+* Changes in color
+
+Changes in *shape* are an indicator for lots of nested conditions. When you see frequent changes in color it means that  code may not have the same level of abstraction, possible using strins, constants and variables which are colored differently by most IDEs.
+
+<img src="images/complexity-trend.png" alt="Code Complexity" width="800">
+
+In the graph we see that aroung May/June of 2015 the LOC on *ReactCompositeComponent.js* approximately doubled from aroudn 250 to 500, while the complexity measure of this file seems to have quadrupled. Watching out for such changes can help identify potentially complex part of the application, which is the first step in reducing complexity.
 
 ### Knowledge Maps and Organizational Structure
 
