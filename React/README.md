@@ -19,4 +19,4 @@ React is a JavaScript library for building user interfaces.
 
 ## [Metrics, Variability and Quality Measures](https://github.com/ZakiNata/ASOSMA/blob/master/React/sections/metrics_variability_and_quality.md)
 
-## [Presentation (WIP)](https://gitpitch.com/ZakiNata/ASOSMA/master?t=moon&p=React)
+## [Conclusion](https://github.com/ZakiNata/ASOSMA/blob/master/React/sections/conclusion.md)
