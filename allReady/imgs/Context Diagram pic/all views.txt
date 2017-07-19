@@ -1,0 +1,62 @@
+[
+Category
+	item
+	item
+]
+
+
+
+Supported platforms
+	Web Browsers
+		Chrome
+		Firefox
+		Internet Explorer
+		Safari
+		Opera
+	Mobile devices
+		Android
+		iOS
+		Windows Phone
+
+Version Control and issue tracking
+	Github
+
+Development Environment and tools
+	Visual Studio
+
+Visualization
+	appveyor
+
+Testing
+	nunit
+
+Data storage
+	Azure
+
+Development Languages
+	C#
+	F#
+	Angular js
+	JSON
+	TypeScript
+	MVC
+	
+Backed by
+	Microsoft Philantropies
+
+In collaboration with
+	Red cross
+	Firefighters
+	Emergency services
+
+Developers
+	Dev. lead
+	Git contributors
+
+Dependencies
+	Gulp Node.js
+	MONO ASP.NET
+	Bowser SQL-server
+	Xamarin
+		
+	

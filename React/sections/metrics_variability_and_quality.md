@@ -48,6 +48,7 @@ While the goal is to reduce temporal coupling, not all of it is bad. Tight copul
 
 The following analysis provides more insights into React's coupling. A look on *ReactDOMInput.js* and *ReactDOMTextarea.js* which have a *75%* temporal coupling bring up some questions. Though it is hard to judge the code base without carefully investigating and understanding it, *input* and *textarea* seem to be related concepts, which probably explains why the files change over time. It is open for discussion, if those changes could or could not be made redundant by introducing an abstraction level in form of a parent class incorporating the commonalities between the two.
 
+
 <img src="images/temporal-coupling.png" alt="Temporal Coupling React" width="800">
 
 ### Complexity
@@ -62,6 +63,7 @@ Changes in *shape* are an indicator for lots of nested conditions. When you see 
 <img src="images/complexity-trend.png" alt="Code Complexity" width="800">
 
 In the graph we see that aroung May/June of 2015 the LOC on *ReactCompositeComponent.js* approximately doubled from aroudn 250 to 500, while the complexity measure of this file seems to have quadrupled. Watching out for such changes can help identify potentially complex part of the application, which is the first step in reducing complexity.
+
 
 ### Knowledge Maps and Organizational Structure
 
@@ -90,3 +92,4 @@ Working on Open Source projects, especially on such a big and widely used one as
 ![Social Network](images/social-network-react.png)
 
 Highlighted are the ties of one of the core React's maintainers [Ben Alpert](https://github.com/spicyj), being *well connected*, in this case meaning, that he has worked with almost every other developer on some part of the framwork
+
