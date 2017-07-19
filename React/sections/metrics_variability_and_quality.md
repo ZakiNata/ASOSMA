@@ -14,6 +14,19 @@ Static code analysis can only bring us so far. It only inspects a snapshot of th
 
 <img src="images/react-hotspot.png" alt="Hotspots map" width="400">
 
+Like geographical crime hotspots help the police to pinpoint areas with higher probablity of a crime being commited, code hotspots indicate code areas, where a lot is happening. Modules, classes or files which change a lot have also a higher risk of brining in bugs and unintended behaviour. According to Adam Tornhill, it violates the [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle), one of the core design principles of [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) object oriented design. In contrast, part of the application which do not change that frequently can be an indicator for a rather stable and modular codebase. 
+
+The react project has as of right now about **4.2%** of its code base marked as Hotspots with **18.8%** of all the development happening around this code. In order to get a better perspective, a (short comparison)[https://codescene.io/showcase] of other open source projects can help us bring the numbers in perspective:
+
+| Project  | LOC  | # of Contributors  |  Hotspots (%)  | Development in Hotspotss (%)  |
+|---|---|:---:|:---:|:---:|
+|  Elasticsearch | 707,838  |  221 | **0.5** | **8.2**  |
+|  Rails | 257,315  |  503 | **0.8** | **5.8**  |
+|  ASP.NET | 332,076  | 123  | **2.2**  | **12.2**  |
+|  *React* | *127,331*  | *483*  | ***4.2***  | ***18.8*** |
+|  Numpy | 222,507  |  505 | **9.8** | **13.2**  |
+
+It surely depends on other metrics such as number of contributors, project maturity, etc. While React's numbers seem not that high, compared to other frameworks such as *ASP.NET* or *Rails*, the percentage of hotspots seems to be rather high.
 
 ### Temporal Coupling
 
