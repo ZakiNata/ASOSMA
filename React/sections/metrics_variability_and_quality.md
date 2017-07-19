@@ -68,8 +68,25 @@ In the graph we see that aroung May/June of 2015 the LOC on *ReactCompositeCompo
 >...organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations
 --M. Conway
 
+In open source projects, with geographically distributed teams, or no teams at all, with individual contributors joining the project and possibly leaving, an analysis of the social aspect of code becomes very important. In this section we want to focus on two aspects:
 
-<img src="images/owner-high.png" alt="High ownership" width="400">
-<img src="images/owner-low.png" alt="Low ownership" width="400">
+* Knowledge maps *and*
+* Social networks
+
+#### Knowledge Maps
+
+Knowledge maps can help us understand, how the knowledge of the codebase is distributed over the contributors of the given library. A person who commited only once to a file, introducing only a few changes is assumed to have far less "knowledge" or "ownership" in this particular file. Staying in the example from the previous section, *ReactCompositeComponent.js*, we see that [Sebastian Markbåge](https://github.com/sebmarkbage) has contributed about 30.9%  of the work on the file, while [Benajmin Woodruff](https://github.com/bgw) would probably not be the best person to ask about this file's internals with only 0.08% of code knowledge.
 
 
+
+![High Ownership](images/owner-high.png)
+![Low Ownership](images/owner-low.png)
+
+
+
+#### Social Networks
+Working on Open Source projects, especially on such a big and widely used one as React, is a social endavour. A lot of considerations, internal and external communications need to happen in order to maintain the project and ensure its success. It is inevitable that social networks emerge, with some people becoming "important" information hubs for others. Following is a graph of the code social structure of the React core contributors team.
+
+![Social Network](images/social-network-react.png)
+
+Highlighted are the ties of one of the core React's maintainers [Ben Alpert](https://github.com/spicyj), being *well connected*, in this case meaning, that he has worked with almost every other developer on some part of the framwork
