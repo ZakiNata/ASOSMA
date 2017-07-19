@@ -75,7 +75,7 @@ We consider that important bugs are bugs classified as difficulty: medium (there
 We found a very interesting discussion about React Development Process.
 You can see the full discussion just here (https://discuss.reactjs.org/t/react-development-process/2135). 
 
-Students from "" ask the React.js Team about Development Process :
+Students from FEUP (Faculdade de Engenharia da Universidade do Porto), Porto, Portugal ask the React.js Team about Development Process :
 
 
 "We mainly seek validation of our ideas and our interpretation of what's been going on in the development process. After careful analysis of the way the project is organised, GitHub statistics, issues and milestones list, and project wiki, we concluded that there isn't really a single, well-defined process behind the development of the React library, although it seemed clear to us, from the way development seems to focus on the evolution and improvement of the project, that several ideas were borrowed from a number of Agile methodologies.
