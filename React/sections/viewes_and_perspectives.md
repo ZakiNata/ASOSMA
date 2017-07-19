@@ -34,6 +34,12 @@ src | contains the src code of react divided itself into child directories by ca
 
 ![](https://github.com/ZakiNata/ASOSMA/blob/master/React/images/REACTJS%20Context%20view.png)
 
+- Since React is an open source application, it is being developed on Github. this enables larger exposure to contribution and easier access to developers that want to use the library
+- Main users of the React are the facebook app developers, react is a library that is created to help develop a well connected and easy operated facebook applications, so in order to create the next trending FB app, developers start their way by including the React JS 
+- FB of course are the main stakeholder of React, they want to see the library widely used and growing, also when enabling developers to easily create apps on FB, this encourages the developers to create more FB connected apps and focus on the quality rather than the difficulties of connections and integrations , this comes back with great profit to facebook increasing the number of users to the social network
+- being written in Java script, React has the properties of JS regarding the supported browsers , also the dependencies where it depends on npm for packaging , yarn for dependency management and JSX which is the super form of JS
+- Since we are talking about an open source library, the decision to use Apache license is reasonable, this kind of license allows to freely download and use React, in whole or in part, for personal, company internal, or commercial purposes, also use React in packages or distributions that you create.
+
 #### Development View
 
 The development view comes to  illustrate a system from a programmers perspective and is concerned with software management. 
