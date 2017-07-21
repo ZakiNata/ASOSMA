@@ -17,6 +17,10 @@ With such a big reach and framework success comes big responsibilty for code qua
 
 One can argue that on of the reasons for such broad adoption of the framework is indeed its uniqe architecture, code quality and ease of use. 
 
-As we saw in 
+As we saw in the section [Metrics, Variability and Quality Measures](Metrics, Variability and Quality Measures), the React codebase is a very large one, presenting challenges large oepn source codebases usually do, like *distributed knowledge*, *code hotspots* and sometimes increasing *complexity*. 
+
+There is also the fact, that the teem seems not to follow any particular development methodology as mentioned in of the previous sections. On the other hand we find that a lot of thought was given to designing the collaborating process, without giving it a formal name, and the process seems to work very smoothly and efficiently. 
+
+The fact of wide adoption, even not directly connected to code quality, shows that the code works as expected and works in a reliable way.
 
 
